@@ -46,7 +46,8 @@ Got a question about your Spring Framework 5 course? [Checkout these FAQs!](http
 
 ## Connect with Spring Framework Guru
 * Spring Framework Guru [Blog](https://springframework.guru/)
-  - this is test
+  - this is test ***** OK *****
+  - this is the second test ==> EEA
 * Subscribe to Spring Framework Guru on [YouTube](https://www.youtube.com/channel/UCrXb8NaMPQCQkT8yMP_hSkw)
 * Like Spring Framework Guru on [Facebook](https://www.facebook.com/springframeworkguru/)
 * Follow Spring Framework Guru on [Twitter](https://twitter.com/spring_guru)
